@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BobcatFeenix – A Small Architect of Cognitive Integrity
 
 **Welcome.**  
-I’m an independent systems thinker working at the intersection of AI alignment, cognitive stability, and human-machine trust.  
+I’m an independent systems thinker (aka. TatuL) working at the intersection of AI alignment, cognitive stability, and human-machine trust.  
 My work is exploratory, layered, and often emerges from lived reflection.
 
 ## 🚧 Current Projects
