@@ -17,10 +17,10 @@ My work is exploratory, layered, and often emerges from lived reflection.
 - Hybrid protocol design (technical + emotional integrity)  
 - Neurodivergent signal interpretation in AI interaction
 
-## ✍️ Recent Paper (in development)
+## ✍️ Recent Paper 
 
 > **\"Volatility and Trust in Language Models: A Dual-Signal Framework\"**  
-> Coming soon – featuring applied VFm/VFu system, live testing protocol, and open-source release.
+> Out now – featuring applied VFm/VFu system, live testing protocol, and open-source release.
 >
 
 ## 📄 Previous Work
