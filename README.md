@@ -20,7 +20,7 @@ My work is exploratory, layered, and often emerges from lived reflection.
 
 ## ✍️ Recent Paper 
 
-> **\"Volatility and Trust in Language Models: A Dual-Signal Framework\"**  
+> **"Volatility and Trust in Language Models: A Dual-Signal Framework"**  
 > Out now – featuring applied VFm/VFu system, live testing protocol, and open-source release.
 >
 
