@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BobcatFeenix – A Small Architect of Cognitive Integrity
 
 **Welcome.**  
-I’m an independent systems thinker (aka. TatuL) working at the intersection of AI alignment, cognitive stability, and human-machine trust.  
+I’m an independent systems thinker (aka. Tatu Lertola) working at the intersection of AI alignment, cognitive stability, and human-machine trust.  
 My work is exploratory, layered, and often emerges from lived reflection.
 
 ## 🚧 Current Projects
@@ -9,7 +9,8 @@ My work is exploratory, layered, and often emerges from lived reflection.
 - **Sol Lucid** – A General AI Simulation and Trust Architecture  
 - **Volatility Factor Framework (VFm/VFu)** – A dual-signal model for detecting cognitive drift and interaction instability in language models  
 - **Stagnation Signal (Sᵍ)** – A meta-layer for recognizing conversation breakdown and emotional entropy in longform dialogues
-
+- **Hila** is a semantic scaffolding model designed to trace coherence through layered generative interactions**
+  
 ## 🎯 Focus Areas
 
 - Hallucination detection and mitigation in generative AI  
