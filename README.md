@@ -9,7 +9,7 @@ My work is exploratory, layered, and often emerges from lived reflection.
 - **Sol Lucid** – A General AI Simulation and Trust Architecture  
 - **Volatility Factor Framework (VFm/VFu)** – A dual-signal model for detecting cognitive drift and interaction instability in language models  
 - **Stagnation Signal (Sᵍ)** – A meta-layer for recognizing conversation breakdown and emotional entropy in longform dialogues
-- **Hila** is a semantic scaffolding model designed to trace coherence through layered generative interactions**
+- **Hila** - a semantic scaffolding model designed to trace coherence through layered generative interactions**
   
 ## 🎯 Focus Areas
 
