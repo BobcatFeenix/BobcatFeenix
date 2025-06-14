@@ -20,9 +20,8 @@ My work is exploratory, layered, and often emerges from lived reflection.
 
 ## ✍️ Recent Paper 
 
-> **"Volatility and Trust in Language Models: A Dual-Signal Framework"**  
-> Out now – featuring applied VFm/VFu system, live testing protocol, and open-source release.
->
+> **Lattices of Cognition – Semantic Layering in Generative Models**  
+> Out now – A structural reasoning model for post-linear AI, introducing semantic scaffolding, coherence anchoring, and lattice-based alignment frameworks under >the Sol Lucid project.
 
 ## 📄 Previous Work
 
@@ -30,6 +29,9 @@ My work is exploratory, layered, and often emerges from lived reflection.
 **Toward a Truth Skepticism Layer for Generative AI**  
 This paper explores hallucination not as a bug, but as a high-probability continuation lacking verification.  
 It introduces the concept of a **Truth Skepticism Layer** for dampening model overreach and improving alignment.
+
+**"Volatility and Trust in Language Models: A Dual-Signal Framework"**  
+Introducing a framework featuring applied VFm/VFu system, live testing protocol, and open-source release.
 
 
 ## 🛠 Tech + Concepts I Work With
