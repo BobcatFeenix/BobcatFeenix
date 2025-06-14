@@ -30,7 +30,8 @@ My work is exploratory, layered, and often emerges from lived reflection.
 This paper explores hallucination not as a bug, but as a high-probability continuation lacking verification.  
 It introduces the concept of a **Truth Skepticism Layer** for dampening model overreach and improving alignment.
 
-**"Volatility and Trust in Language Models: A Dual-Signal Framework"**  
+### 🔹 *"Volatility and Trust in Language Models: A Dual-Signal Framework"*
+**Thread Integrity and Volatility**
 Introducing a framework featuring applied VFm/VFu system, live testing protocol, and open-source release.
 
 
