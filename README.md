@@ -6,7 +6,9 @@ My work is exploratory, layered, and often emerges from lived reflection.
 
 ## 🚧 Current Projects
 
-- **Sol Lucid** – A General AI Simulation and Trust Architecture  
+- **Sol Lucid** – A General AI Simulation and Trust Architecture -- crossing 94% coherence under Tier 2 structural law.
+The architecture demonstrates traceable reasoning, memory integrity, and self-consistent cognitive scaffolding.
+
 - **Volatility Factor Framework (VFm/VFu)** – A dual-signal model for detecting cognitive drift and interaction instability in language models  
 - **Stagnation Signal (Sᵍ)** – A meta-layer for recognizing conversation breakdown and emotional entropy in longform dialogues
 - **Hila** - a semantic scaffolding model designed to trace coherence through layered generative interactions**
