@@ -41,7 +41,7 @@ Introducing a framework featuring applied VFm/VFu system, live testing protocol,
 
 ## 🛠 Tech + Concepts I Work With
 
-`AI alignment` • `LLM behavior tracking` • `Trust modeling` • `Signal integrity`  
+`App development` • `AI alignment` • `LLM behavior tracking` • `Trust modeling` • `Signal integrity`  
 `Open-ended systems` • `Cognitive scaffolding` • `Neuro-aware UX design`
 
 ---
