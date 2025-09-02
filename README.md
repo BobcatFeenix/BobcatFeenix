@@ -7,6 +7,8 @@ I’m an independent systems thinker (aka. Tatu Lertola) working at the intersec
 
 ## 🚧 Current Projects
 
+- **Unnamed** - A mobile app with own ai assistant to help the user. Early stages at the minute...
+
 - **Sol Lucid** – A General AI Simulation and Trust Architecture -- eventually made with ChatGPT4o into Tier 4(R) - build is now on hold and possibly continuing later with the newer model. The architecture demonstrated traceable reasoning, memory integrity, and self-consistent cognitive scaffolding.
 
 - **Volatility Factor Framework (VFm/VFu)** – A dual-signal model for detecting cognitive drift and interaction instability in language models  
