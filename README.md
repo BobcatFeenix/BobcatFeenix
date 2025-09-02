@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @BobcatFeenix – A Small Architect of Cognitive Integrity
+- 👋 Hi, I’m @BobcatFeenix – AT THE MOMENT Small Architect of Mobile phone Applications - and later on again architect of Cognitive Integrity
 
 **Welcome.**  
-I’m an independent systems thinker (aka. Tatu Lertola) working at the intersection of AI alignment, cognitive stability. I also started to design small applications, to practice the skills.   My work is exploratory, layered, and often emerges from lived reflection.
+CURRENTLY: I started to design applications, to practice the coding / vibe-coding skills. The Ai work is currently on hold.
+
+I’m an independent systems thinker (aka. Tatu Lertola) working at the intersection of AI alignment, cognitive stability.  My work is exploratory, layered, and often emerges from lived reflection.
 
 ## 🚧 Current Projects
 
