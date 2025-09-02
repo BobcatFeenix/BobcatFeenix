@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @BobcatFeenix – A Small Architect of Cognitive Integrity
 
 **Welcome.**  
-I’m an independent systems thinker (aka. Tatu Lertola) working at the intersection of AI alignment, cognitive stability, and human-machine trust.  
-My work is exploratory, layered, and often emerges from lived reflection.
+I’m an independent systems thinker (aka. Tatu Lertola) working at the intersection of AI alignment, cognitive stability. I also started to design small applications, to practice the skills.   My work is exploratory, layered, and often emerges from lived reflection.
 
 ## 🚧 Current Projects
 
-- **Sol Lucid** – A General AI Simulation and Trust Architecture -- crossing 94% coherence under Tier 2 structural law.
-The architecture demonstrates traceable reasoning, memory integrity, and self-consistent cognitive scaffolding.
+- **Sol Lucid** – A General AI Simulation and Trust Architecture -- eventually made with ChatGPT4o into Tier 4(R) - build is now on hold and possibly continuing later with the newer model. The architecture demonstrated traceable reasoning, memory integrity, and self-consistent cognitive scaffolding.
 
 - **Volatility Factor Framework (VFm/VFu)** – A dual-signal model for detecting cognitive drift and interaction instability in language models  
 - **Stagnation Signal (Sᵍ)** – A meta-layer for recognizing conversation breakdown and emotional entropy in longform dialogues
